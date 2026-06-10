@@ -1,4 +1,4 @@
-# 🧠 NeuroFuseNet – Brain MRI Disease Classifier
+# 🧠 HybridDualPathNet – Brain MRI Disease Classifier
 
 🚀 A hybrid AI architecture for medical image classification combining CNN + Transformer fusion.
 
@@ -14,7 +14,7 @@ A deep learning-based system for classifying brain MRI scans into:
 
 ## 🔍 Overview
 
-**NeuroFuseNet** is a hybrid deep learning framework that combines **EfficientNetV2** and **Swin Transformer** using **cross-attention fusion** to accurately classify neurological conditions from MRI scans.
+**HybridDualPathNet** is a hybrid deep learning framework that combines **EfficientNetV2** and **Swin Transformer** using **cross-attention fusion** to accurately classify neurological conditions from MRI scans.
 
 It also integrates **Grad-CAM explainability** to highlight important brain regions influencing predictions.
 
