@@ -43,9 +43,9 @@ It also integrates **Grad-CAM explainability** to highlight important brain regi
 
 ## 📊 Model Performance
 
-* ✅ **Test Accuracy (TTA):** 97.84%
+* ✅ **Test Accuracy :** 98.4%6
 * ✅ **Macro AUC-ROC:** 0.9981
-* ✅ **F1 Score:** ~0.98 across all classes
+* ✅ **F1 Score:** ~0.9991 across all classes
 
 ---
 
