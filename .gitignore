@@ -6,12 +6,13 @@ venv/
 env/
 *.egg-info/
 
-# Django
+# Django (web app)
 .env
 db.sqlite3
 web/media/
 web/staticfiles/
 web/.env
+web/.venv/
 
 # Model weights (hosted on Google Drive — too large for GitHub)
 *.pth

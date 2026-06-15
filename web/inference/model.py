@@ -35,7 +35,7 @@ class ModelSingleton:
                 f"Model weights not found.\n"
                 f"  Expected: {self.weights_path}\n"
                 f"  Also tried: weights/final_model.pth, weights/best_model.pth\n\n"
-                f"Export from Colab (see scripts/export_weights_from_colab.py) or copy your\n"
+                f"Export from Colab (see ../scripts/export_weights_from_colab.py) or copy your\n"
                 f"trained .pth file into the weights/ folder."
             )
 

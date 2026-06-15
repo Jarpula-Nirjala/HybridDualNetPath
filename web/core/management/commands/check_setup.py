@@ -34,7 +34,7 @@ class Command(BaseCommand):
             self.stdout.write(
                 "\nMost common fix: copy your trained weights from Colab/Google Drive to:\n"
                 f"  {Path(settings.BASE_DIR) / 'weights' / 'final_model.pth'}\n"
-                "See scripts/export_weights_from_colab.py for Colab download steps.\n"
+                "See ../scripts/export_weights_from_colab.py for Colab download steps.\n"
             )
             raise SystemExit(1)
 

@@ -38,24 +38,17 @@ This repository includes:
 
 ```
 HybridDualNetPath/
-├── notebook/
-│   ├── NIRJALA_13.ipynb
-│   └── IIITSURAT_MAJOR_PROJECT_UI22EC34.ipynb
-├── outputs/                    # Training result plots
-├── web/                        # Django web application
-│   ├── config/                 # Settings (dev/prod), Celery
-│   ├── accounts/               # Auth (signup/login)
-│   ├── scans/                  # Upload, inference, history
-│   ├── inference/              # Model singleton, TTA, Grad-CAM++
-│   ├── templates/              # Modern UI templates
-│   ├── weights/                # Place final_model.pth here
-│   ├── manage.py
-│   ├── requirements.txt
-│   ├── Procfile                # Railway/Render
-│   └── render.yaml
-├── README.md
-└── requirements.txt              # Notebook dependencies
+├── notebook/          # Training notebooks (Colab)
+├── outputs/           # Result plots & metrics
+├── docs/              # Research paper
+├── scripts/           # Utility scripts (push, Colab export)
+├── web/               # Django web application
+├── requirements.txt   # Notebook dependencies
+├── PROJECT_STRUCTURE.md
+└── README.md
 ```
+
+See **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)** for the full folder tree.
 
 ---
 
