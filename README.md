@@ -143,7 +143,13 @@ Dataset not included due to size.
 
 ![PCA and T-SNE plots](outputs/pca.png)
 
-![Precision-Recall Curves](outputs/precision-recall curves.png)
+![Confidence](outputs/confidence.png)
+
+![GradCAM++](outputs/gradcam-visualizations.png)
+
+
+
+
 ---
 
 ## 🛠 Tech Stack
