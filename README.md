@@ -145,7 +145,7 @@ Dataset not included due to size.
 
 ![Confidence](outputs/confidence.png)
 
-![GradCAM++](outputs/gradcam-visualizations.png)
+![GradCAM++](outputs/gradcam_visualizations.png)
 
 
 
