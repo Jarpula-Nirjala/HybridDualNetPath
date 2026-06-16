@@ -137,6 +137,8 @@ Dataset not included due to size.
 
 ![Brain MRI Samples](outputs/sample_images.png.png)
 
+![Throughput and Latency](outputs/throughput.png)
+
 ---
 
 ## 🛠 Tech Stack
