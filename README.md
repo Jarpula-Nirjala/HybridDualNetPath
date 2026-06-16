@@ -129,17 +129,19 @@ Dataset not included due to size.
 
 ## 📸 Results
 
-![Confusion Matrix](outputs/confusion_matrix.png)
-
-![Training Curves](outputs/output.png)
-
-![ROC Curve](outputs/roc_curves.png)
+![Dataset Overview](outputs/datasetoverview.png)
 
 ![Brain MRI Samples](outputs/sample_images.png.png)
 
-![Throughput and Latency](outputs/throughput.png)
+![Augmentation](outputs/augumentation.png)
 
-![Dataset Overview](outputs/datasetoverview.png)
+![Training Curves](outputs/output.png)
+
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+![ROC Curve](outputs/roc_curves.png)
+
+![Throughput and Latency](outputs/throughput.png)
 
 ![PCA and T-SNE plots](outputs/pca.png)
 
